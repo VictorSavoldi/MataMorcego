@@ -1,6 +1,7 @@
 # Jogo Mata Morcego 
 
 Jogo básico onde o desafio é bater ao morcego para poder ganhar, inspirado no jogo desenvolvido em SCRATCH. Foi fornecido um [projeto](https://scratch.mit.edu/projects/500885674) no sistema web [SCRATCH](https://scratch.mit.edu), que realiza um jogo basico.
+
 ![](assets/mataMorcego.png)
 ## Recursos
 ### Morcego
